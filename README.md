@@ -1,1 +1,1 @@
-# MLResources
+# Machine Learning Resources
