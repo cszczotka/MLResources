@@ -1,1 +1,3 @@
 # Machine Learning Resources
+
+Contains jupyter playbooks, description of tools, algorithms, models ... 
