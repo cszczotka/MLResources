@@ -1,20 +1,42 @@
+
+Types of ML problems:
+ - Classification
+ - Regression
+ - Clustering
+ - Dimensionality reduction
+
 ML algorithm types:
 
 ## Supervised Learning Algorithms
 ### Regresion 
 For continues values
+- Linear
+- Lasso
+- Ridge
+- SVR
+## Logistic regresion
+ - helps find how probabilities are changed by actions p(Yi) = 1/(1+ e ^ -(A+BXi))  
 ### Clasification
 For discrete (categorical) values
-
+- Naive Bayes
+- SVMs
+- Decision trees
+- Random forests
+  
+### Dimensionality Reduction
+- Manifold learning
+- factor analysis  
 ## Linear Learner and XGBoost
 if you want to solve a problem whose answers fit into discrete categories or that are quantitative, you can use the Linear Learner and XGBoost algorithms, 
 
 ## Factorization Machines
 if the problem you want to tackle has answers that are discrete recommendations, the Factorization Machines algorithm could be a nice choice. 
 
-## K-Means
+## Clustering
 if you want to identify groups in a set of observations, you may use the K-Means algorithm 
-
+- K-means
+- DBSCAN
+- Spectral clustering
 ## Principal Component Analysis
 if you want to simply fight and better understand attributes of observations, the Principal Component Analysis algorithm may be the right tool for the job. 
 

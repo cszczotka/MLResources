@@ -14,5 +14,9 @@ Home for ML algorithms, build on NumPy, SciPy and Matplotlib
 https://colab.research.google.com
 ## Pickle
 Serialize and deserialize machine learning model
+# Seaborn
+Build on top of matplot lib used for statistical visualtisation
+
+https://github.com/smarter-code/PS-BuildingYourFirstMachineLearningSolution
 
 	
